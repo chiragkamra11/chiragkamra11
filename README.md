@@ -11,7 +11,7 @@ Here are a few details about me:
 
 - 📫 How to reach me?: chiragkamra11@gmail.com
 
-- Hobbies: Data, Drums, Chess, Raptors and Liverpool FC. 
+- Hobbies: Drums, Chess, Raptors and Liverpool FC. 
 <!--
 **chiragkamra11/chiragkamra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
